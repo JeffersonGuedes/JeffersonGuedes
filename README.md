@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**JeffersonGuedes/JeffersonGuedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/JeffersonGuedes/arquivosRaw/blob/main/github-user-contribution.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/JeffersonGuedes/arquivosRaw/blob/main/github-user-contribution.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/JeffersonGuedes/arquivosRaw/blob/main/github-user-contribution.svg"
+  />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
