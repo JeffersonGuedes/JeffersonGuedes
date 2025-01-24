@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </div>
           
@@ -43,5 +44,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonGuedes&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
 <div class="tenor-gif-embed" data-postid="16606971" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-cat-busy-laptop-kitten-gif-16606971">Typing Cat GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="12805916815008299407" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oia-uia-oia-cat-uia-cat-catcultclassics-gif-12805916815008299407">Oia Uia Sticker</a>from <a href="https://tenor.com/search/oia-stickers">Oia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
