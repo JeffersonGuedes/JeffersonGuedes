@@ -43,7 +43,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonGuedes&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JeffersonGuedes&show_icons=true&theme=dracula&include_all_commits=true"/>
 </div>
-<div class="tenor-gif-embed" data-postid="16606971" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-cat-busy-laptop-kitten-gif-16606971">Typing Cat GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="16606971" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/typing-cat-busy-laptop-kitten-gif-16606971">Typing Cat GIF</a>from <a href="https://tenor.com/search/typing-gifs">Typing GIFs</a></div>
 <div class="tenor-gif-embed" data-postid="12805916815008299407" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oia-uia-oia-cat-uia-cat-catcultclassics-gif-12805916815008299407">Oia Uia Sticker</a>from <a href="https://tenor.com/search/oia-stickers">Oia Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
